@@ -1,4 +1,4 @@
-CO<sub>2<\sub> concentration and water availability alter the organic acid composition of root exudates in native Australian species
+CO<sub>2</sub> concentration and water availability alter the organic acid composition of root exudates in native Australian species
 =======
 
 Shun Hasegawa 10th January 2023
