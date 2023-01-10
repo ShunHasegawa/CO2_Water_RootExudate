@@ -52,9 +52,8 @@ qqresidPlot(hak_OAe_plant_m2)
 mic_OAe_m1 <- lmer(OAexuded_plant^(1/3) ~ co2 * water + (1|block), data = mic_dd)
 summary(mic_OAe_m1)
 Anova(mic_OAe_m1, test.statistic = "F")
-qqresidPlot(mic_OAe_m1)
 # model diagnosis
-qqresidPlot(hak_OAe_plant_m2)
+qqresidPlot(mic_OAe_m1)
 
 
 
@@ -169,7 +168,7 @@ Anova(hak_OAe_C_plant_m2)
 qqresidPlot(hak_OAe_C_plant_m2)
 
 # . Microlaena --------------------------------------------------------------
-mic_OAe_C_plant_m1 <- lmer(log(OAexudedC_plant + .1) ~ co2 * water + (1|block), data = mic_dd)
+mic_OAe_C_plant_m1 <- lmer(log(OAexudedC_plant + .0333) ~ co2 * water + (1|block), data = mic_dd)
 summary(mic_OAe_C_plant_m1)
 Anova(mic_OAe_C_plant_m1, test.statistic = "F")
 # model diagnosis
