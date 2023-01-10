@@ -1,0 +1,56 @@
+﻿Filename,Variable,Unit,Description
+RootExudate_Plant_Soil.csv,species,,"Studied species: Eucalyptus tereticornis, Hakea sericea, Microlaena stipoides"
+RootExudate_Plant_Soil.csv,sample_id,,Sample ID
+RootExudate_Plant_Soil.csv,block,,Block
+RootExudate_Plant_Soil.csv,co2,,CO2 treatment
+RootExudate_Plant_Soil.csv,water,,Water treatment
+RootExudate_Plant_Soil.csv,total_biomass,g,Total plant biomass
+RootExudate_Plant_Soil.csv,soil_nitrate,mg N cm-2,Soil nitrate availability assessed by ion exchange membrane (IEM)
+RootExudate_Plant_Soil.csv,soil_ammonium,mg N cm-2,Soil ammonium availability assessed by ion exchange membrane (IEM)
+RootExudate_Plant_Soil.csv,soil_phosphate,mg P cm-2,Soil phosphate availability assessed by ion exchange membrane (IEM)
+RootExudate_Plant_Soil.csv,RSR,,Root:Shoot ratio
+RootExudate_Plant_Soil.csv,ClRootNo_root,g-1 root DW,The number of cluster roots per g root dry weight (DW)
+RootExudate_Plant_Soil.csv,OAexuded_plant,µg plant-1 h-1,OAexuded per plant per hour
+RootExudate_Plant_Soil.csv,OArhizo_plant,µg plant-1,OArhizo per plant
+RootExudate_Plant_Soil.csv,OAexuded_root,µg g-1 root DW h-1,OAexuded per g root DW per hour
+RootExudate_Plant_Soil.csv,OArhizo_root,µg g-1 root DW,OArhizo per g root DW
+RootExudate_Plant_Soil.csv,OAexudedC_plant,µg C plant-1 h-1,The total amount of carbon in OAexuded per plant per hour
+RootExudate_Plant_Soil.csv,OArhizoC_plant,µg C plant-1,The total amount of carbon in OArhizo per plant
+RootExudate_Plant_Soil.csv,OAexudedC_root,µg C g-1 root DW h-1,The total amount of carbon in OAexuded per g root DW per hour
+RootExudate_Plant_Soil.csv,OArhizoC_root,µg C g-1 root DW,The total amount of carbon in OArhizo per g root DW
+Etereticornis_OAexuded.csv,sample_id,,Sample ID
+Etereticornis_OAexuded.csv,fumaric,µg plant-1 h-1,fumaric acid in OAexuded per plant per hour in E. tereticornis
+Etereticornis_OAexuded.csv,malic,µg plant-1 h-1,malic acid in OAexuded per plant per hour in E. tereticornis
+Etereticornis_OAexuded.csv,oxalic,µg plant-1 h-1,oxalic acid in OAexuded per plant per hour in E. tereticornis
+Etereticornis_OAexuded.csv,shikimic,µg plant-1 h-1,shikimic acid in OAexuded per plant per hour in E. tereticornis
+Etereticornis_OArhizo.csv,sample_id,,Sample ID
+Etereticornis_OArhizo.csv,citric,µg plant-1,citric acid in OArhizo per plant per in E. tereticornis
+Etereticornis_OArhizo.csv,fumaric,µg plant-1,fumaric acid in OArhizo per plant per in E. tereticornis
+Etereticornis_OArhizo.csv,malic,µg plant-1,malic acid in OArhizo per plant per in E. tereticornis
+Etereticornis_OArhizo.csv,oxalic,µg plant-1,oxalic acid in OArhizo per plant per in E. tereticornis
+Etereticornis_OArhizo.csv,shikimic,µg plant-1,shikimic acid in OArhizo per plant per in E. tereticornis
+Hsericea_OAexuded.csv,sample_id,,Sample ID
+Hsericea_OAexuded.csv,cis-aconitic,µg plant-1 h-1,cis-aconitic acid in OAexuded per plant per hour in H. sericea
+Hsericea_OAexuded.csv,oxalic,µg plant-1 h-1,oxalic acid in OAexuded per plant per hour in H. sericea
+Hsericea_OAexuded.csv,trans-aconitic,µg plant-1 h-1,trans-aconitic acid in OAexuded per plant per hour in H. sericea
+Hsericea_OArhizo.csv,sample_id,,Sample ID
+Hsericea_OArhizo.csv,cis-aconitic,µg plant-1,cis-aconitic acid in OArhizo per plant per in H. sericea
+Hsericea_OArhizo.csv,citric,µg plant-1,citric acid in OArhizo per plant per in H. sericea
+Hsericea_OArhizo.csv,fumaric,µg plant-1,fumaric acid in OArhizo per plant per in H. sericea
+Hsericea_OArhizo.csv,malic,µg plant-1,malic acid in OArhizo per plant per in H. sericea
+Hsericea_OArhizo.csv,oxalic,µg plant-1,oxalic acid in OArhizo per plant per in H. sericea
+Hsericea_OArhizo.csv,shikimic,µg plant-1,shikimic acid in OArhizo per plant per in H. sericea
+Hsericea_OArhizo.csv,trans-aconitic,µg plant-1,trans-aconitic acid in OArhizo per plant per in H. sericea
+Mstipoides_OAexuded.csv,sample_id,,Sample ID
+Mstipoides_OAexuded.csv,citric,µg plant-1 h-1,citric acid in OAexuded per plant per hour in M. stipoides
+Mstipoides_OAexuded.csv,fumaric,µg plant-1 h-1,fumaric acid in OAexuded per plant per hour in M. stipoides
+Mstipoides_OAexuded.csv,malic,µg plant-1 h-1,malic acid in OAexuded per plant per hour in M. stipoides
+Mstipoides_OAexuded.csv,oxalic,µg plant-1 h-1,oxalic acid in OAexuded per plant per hour in M. stipoides
+Mstipoides_OAexuded.csv,shikimic,µg plant-1 h-1,shikimic acid in OAexuded per plant per hour in M. stipoides
+Mstipoides_OArhizo.csv,sample_id,,Sample ID
+Mstipoides_OArhizo.csv,acetic,µg plant-1,acetic acid in OArhizo per plant per in M. stipoides
+Mstipoides_OArhizo.csv,citric,µg plant-1,citric acid in OArhizo per plant per in M. stipoides
+Mstipoides_OArhizo.csv,fumaric,µg plant-1,fumaric acid in OArhizo per plant per in M. stipoides
+Mstipoides_OArhizo.csv,malic,µg plant-1,malic acid in OArhizo per plant per in M. stipoides
+Mstipoides_OArhizo.csv,oxalic,µg plant-1,oxalic acid in OArhizo per plant per in M. stipoides
+Mstipoides_OArhizo.csv,shikimic,µg plant-1,shikimic acid in OArhizo per plant per in M. stipoides
