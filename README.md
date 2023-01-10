@@ -8,7 +8,7 @@ This repository stores the R scripts and raw data to reproduce the results prese
 -   Article title: CO<sub>2</sub> concentration and water availability alter the organic acid composition of root exudates in native Australian species
 -   Authors: Shun Hasegawa; Megan H. Ryan; Sally A. Power
 -   Journal: **Plant and Soil**
--   Article acceptance date: 15^th^ December 2022
+-   Article acceptance date: 15<sup>th</sup> December 2022
 
 # File description
 
