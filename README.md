@@ -1,4 +1,5 @@
-# CO<sub>2<\sub> concentration and water availability alter the organic acid composition of root exudates in native Australian species
+CO<sub>2<\sub> concentration and water availability alter the organic acid composition of root exudates in native Australian species
+=======
 
 Shun Hasegawa 10th January 2023
 
@@ -15,6 +16,7 @@ This repository stores the R scripts and raw data to reproduce the results prese
 
 -   **analysis.R:** This loads required packages and data.
 
+<<<<<<< HEAD
 -   **analysis_TotalRootExudate.R:** This analyses the effects of CO<sub>2<\sub> and water treatments on the total amount of oarganic acids (OAs) in root exudates collected from the rhizosphere soil (*OA~rhizo~*) and trap solution (*OA~exuded~*).
 
 -   **analysis_PlantSoil.R:** This analyses the effects of CO<sub>2<\sub> and water treatments on plant and soil measurements.
@@ -24,6 +26,17 @@ This repository stores the R scripts and raw data to reproduce the results prese
 -   **analysis_RDA.R:** This analyses the association between OA composition and CO<sub>2<\sub> and water treatments using redudancy analysis. Furthermore, the correlation between OA composition and plant and soil measurements is analysed.
 
 -   **analysis_All_OArhizo.R** and **analysis_All_OAexuded.R:** There analyse the effects of CO<sub>2<\sub> and water treatments on individual OAs using generalised linear mixed effects models.
+=======
+-   **analysis_TotalRootExudate.R:** This analyses the effects of CO~2~ and water treatments on the total amount of oarganic acids (OAs) in root exudates collected from the rhizosphere soil (*OA~rhizo~*) and trap solution (*OA~exuded~*).
+
+-   **analysis_PlantSoil.R:** This analyses the effects of CO~2~ and water treatments on plant and soil measurements.
+
+-   **analysis_MultipleRegression.R:** This analyses the association between the total amount of OAs in root exudates and plant and soil measurements using multiple regression.
+
+-   **analysis_RDA.R:** This analyses the association between OA composition and CO~2~ and water treatments using redudancy analysis. Furthermore, the correlation between OA composition and plant and soil measurements is analysed.
+
+-   **analysis_All_OArhizo.R** and **analysis_All_OAexuded.R:** There analyse the effects of CO~2~ and water treatments on individual OAs using generalised linear mixed effects models.
+>>>>>>> 01d6cdf293dd4abe87960f6017783d564b848b2c
 
 ## Data
 
