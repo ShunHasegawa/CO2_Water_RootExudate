@@ -1,6 +1,13 @@
-# CO~2~ concentration and water availability alter the organic acid composition of root exudates in native Australian species
+---
+title: CO~2~ concentration and water availability alter the organic acid composition of root exudates in native Australian species
+author: "Shun Hasegawa"
+date: '2023-01-10'
+output: html_document
+---
 
-Shun Hasegawa 10th January 2023
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 This repository stores the R scripts and raw data to reproduce the results presented in the manuscript below.
 
@@ -17,13 +24,13 @@ This repository stores the R scripts and raw data to reproduce the results prese
 
 -   **analysis_TotalRootExudate.R:** This analyses the effects of CO~2~ and water treatments on the total amount of oarganic acids (OAs) in root exudates collected from the rhizosphere soil (*OA~rhizo~*) and trap solution (*OA~exuded~*).
 
--   **analysis_PlantSoil.R:** This analyses the effects of CO~2~ and water treatments on plant and soil measurements.
+-   **analysis_PlantSoil.R:**: This analyses the effects of CO~2~ and water treatments on plant and soil measurements.
 
 -   **analysis_MultipleRegression.R:** This analyses the association between the total amount of OAs in root exudates and plant and soil measurements using multiple regression.
 
 -   **analysis_RDA.R:** This analyses the association between OA composition and CO~2~ and water treatments using redudancy analysis. Furthermore, the correlation between OA composition and plant and soil measurements is analysed.
 
--   **analysis_All_OArhizo.R** and **analysis_All_OAexuded.R:** There analyse the effects of CO~2~ and water treatments on individual OAs using generalised linear mixed effects models.
+-   **analysis_All_OArhizo.R:** and **analysis_All_OAexuded.R:** There analyse the effects of CO~2~ and water treatments on individual OAs using generalised linear mixed effects models.
 
 ## Data
 
