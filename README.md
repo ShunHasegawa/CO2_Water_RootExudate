@@ -24,7 +24,7 @@ This repository stores the R scripts and raw data to reproduce the results prese
 
 -   **analysis_RDA.R:** This analyses the association between OA composition and CO<sub>2</sub> and water treatments using redudancy analysis. Furthermore, the correlation between OA composition and plant and soil measurements is analysed.
 
--   **analysis_All_OArhizo.R** and **analysis_All_OAexuded.R:** There analyse the effects of CO<sub>2</sub> and water treatments on individual OAs using generalised linear mixed effects models.
+-   **analysis_All_OArhizo.R** and **analysis_All_OAexuded.R:** These analyse the effects of CO<sub>2</sub> and water treatments on individual OAs using generalised linear mixed effects models.
 
 ## Data
 
