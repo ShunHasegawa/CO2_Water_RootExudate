@@ -46,29 +46,29 @@ This repository stores the R scripts and raw data to reproduce the results prese
 
 ## Session information
 
-## R version 4.1.2 (2021-11-01)
-## Platform: x86_64-apple-darwin17.0 (64-bit)
-## Running under: macOS Monterey 12.4
-## 
-## Matrix products: default
-## LAPACK: /Library/Frameworks/R.framework/Versions/4.1/Resources/lib/libRlapack.dylib
-## 
-## locale:
-## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
-## 
-## attached base packages:
-## [1] stats     graphics  grDevices utils     datasets  methods   base     
-## 
-## other attached packages:
-##  [1] car_3.0-12      carData_3.0-4   lmerTest_3.1-3  lme4_1.1-27.1   Matrix_1.3-4    vegan_2.5-7    
-##  [7] lattice_0.20-45 permute_0.9-5   tidyr_1.1.4     dplyr_1.0.7     plyr_1.8.6     
-## 
-## loaded via a namespace (and not attached):
-##  [1] Rcpp_1.0.7          pillar_1.6.4        compiler_4.1.2      nloptr_1.2.2.3      tools_4.1.2        
-##  [6] boot_1.3-28         lifecycle_1.0.1     tibble_3.1.6        nlme_3.1-153        gtable_0.3.0       
-## [11] mgcv_1.8-38         pkgconfig_2.0.3     rlang_0.4.12        parallel_4.1.2      xfun_0.36          
-## [16] knitr_1.36          cluster_2.1.2       generics_0.1.1      vctrs_0.3.8         grid_4.1.2         
-## [21] tidyselect_1.1.1    glue_1.5.0          R6_2.5.1            fansi_0.5.0         minqa_1.2.4        
-## [26] purrr_0.3.4         ggplot2_3.3.5       magrittr_2.0.1      scales_1.1.1        ellipsis_0.3.2     
-## [31] MASS_7.3-54         splines_4.1.2       abind_1.4-5         colorspace_2.0-2    numDeriv_2016.8-1.1
-## [36] utf8_1.2.2          munsell_0.5.0       crayon_1.4.2  
+  ## R version 4.1.2 (2021-11-01)
+  ## Platform: x86_64-apple-darwin17.0 (64-bit)
+  ## Running under: macOS Monterey 12.4
+  ## 
+  ## Matrix products: default
+  ## LAPACK: /Library/Frameworks/R.framework/Versions/4.1/Resources/lib/libRlapack.dylib
+  ## 
+  ## locale:
+  ## [1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+  ## 
+  ## attached base packages:
+  ## [1] stats     graphics  grDevices utils     datasets  methods   base     
+  ## 
+  ## other attached packages:
+  ##  [1] car_3.0-12      carData_3.0-4   lmerTest_3.1-3  lme4_1.1-27.1   Matrix_1.3-4    vegan_2.5-7    
+  ##  [7] lattice_0.20-45 permute_0.9-5   tidyr_1.1.4     dplyr_1.0.7     plyr_1.8.6     
+  ## 
+  ## loaded via a namespace (and not attached):
+  ##  [1] Rcpp_1.0.7          pillar_1.6.4        compiler_4.1.2      nloptr_1.2.2.3      tools_4.1.2        
+  ##  [6] boot_1.3-28         lifecycle_1.0.1     tibble_3.1.6        nlme_3.1-153        gtable_0.3.0       
+  ## [11] mgcv_1.8-38         pkgconfig_2.0.3     rlang_0.4.12        parallel_4.1.2      xfun_0.36          
+  ## [16] knitr_1.36          cluster_2.1.2       generics_0.1.1      vctrs_0.3.8         grid_4.1.2         
+  ## [21] tidyselect_1.1.1    glue_1.5.0          R6_2.5.1            fansi_0.5.0         minqa_1.2.4        
+  ## [26] purrr_0.3.4         ggplot2_3.3.5       magrittr_2.0.1      scales_1.1.1        ellipsis_0.3.2     
+  ## [31] MASS_7.3-54         splines_4.1.2       abind_1.4-5         colorspace_2.0-2    numDeriv_2016.8-1.1
+  ## [36] utf8_1.2.2          munsell_0.5.0       crayon_1.4.2  
